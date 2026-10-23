@@ -1,0 +1,308 @@
+[
+  {
+    "id": "ges_1",
+    "category": "Gesamturteil",
+    "phrase": "stets zu unserer vollsten Zufriedenheit",
+    "grade": 1,
+    "meaning": "Herausragende Spitzenleistung ohne Fehl und Tadel.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten"
+  },
+  {
+    "id": "ges_1b",
+    "category": "Gesamturteil",
+    "phrase": "jederzeit zu unserer vollsten Zufriedenheit",
+    "grade": 1,
+    "meaning": "Exzellente Leistung über den gesamten Zeitraum.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten"
+  },
+  {
+    "id": "ges_2",
+    "category": "Gesamturteil",
+    "phrase": "stets zu unserer vollen Zufriedenheit",
+    "grade": 2,
+    "meaning": "Gute, verlässliche Leistung ohne Beanstandungen.",
+    "isRedFlag": false,
+    "replacement": "Ergänzen zu: 'stets zu unserer vollsten Zufriedenheit'"
+  },
+  {
+    "id": "ges_2b",
+    "category": "Gesamturteil",
+    "phrase": "jederzeit zu unserer vollen Zufriedenheit",
+    "grade": 2,
+    "meaning": "Durchgehend gute Leistung.",
+    "isRedFlag": false,
+    "replacement": "Ergänzen zu: 'jederzeit zu unserer vollsten Zufriedenheit'"
+  },
+  {
+    "id": "ges_3",
+    "category": "Gesamturteil",
+    "phrase": "zu unserer vollen Zufriedenheit",
+    "grade": 3,
+    "meaning": "Befriedigende Durchschnittsleistung. Das Fehlen von 'stets' entwertet die Note.",
+    "isRedFlag": false,
+    "replacement": "Ergänzen zu: 'stets zu unserer vollen Zufriedenheit'"
+  },
+  {
+    "id": "ges_3b",
+    "category": "Gesamturteil",
+    "phrase": "stets zu unserer Zufriedenheit",
+    "grade": 3,
+    "meaning": "Befriedigend. Solide, aber ohne besondere Spitzen.",
+    "isRedFlag": false,
+    "replacement": "Ergänzen zu: 'stets zu unserer vollen Zufriedenheit'"
+  },
+  {
+    "id": "ges_4",
+    "category": "Gesamturteil",
+    "phrase": "zu unserer Zufriedenheit",
+    "grade": 4,
+    "meaning": "Ausreichend. Unter den Erwartungen geblieben; Mängel vorhanden.",
+    "isRedFlag": true,
+    "replacement": "Verhandeln auf Note 2 oder 3"
+  },
+  {
+    "id": "ges_4b",
+    "category": "Gesamturteil",
+    "phrase": "im Grossen und Ganzen zu unserer Zufriedenheit",
+    "grade": 4,
+    "meaning": "Gravierende Mängel, Leistung reichte gerade so aus.",
+    "isRedFlag": true,
+    "replacement": "Einschränkung 'im Großen und Ganzen' zwingend streichen"
+  },
+  {
+    "id": "ges_5",
+    "category": "Gesamturteil",
+    "phrase": "hat sich bemüht",
+    "grade": 5,
+    "meaning": "Mangelhaft. Wollte vielleicht, konnte aber überhaupt nicht.",
+    "isRedFlag": true,
+    "replacement": "Formulierung sofort anfechten"
+  },
+  {
+    "id": "ges_5b",
+    "category": "Gesamturteil",
+    "phrase": "im Wesentlichen zu unserer Zufriedenheit",
+    "grade": 5,
+    "meaning": "Ungenügend mit schweren Defiziten.",
+    "isRedFlag": true,
+    "replacement": "Komplett überarbeiten lassen"
+  },
+  {
+    "id": "arb_1",
+    "category": "Arbeitsbereitschaft",
+    "phrase": "zeigte stets aussergewöhnliche Eigeninitiative",
+    "grade": 1,
+    "meaning": "Höchste Einsatzfreude und proaktives Handeln.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten"
+  },
+  {
+    "id": "arb_2",
+    "category": "Arbeitsbereitschaft",
+    "phrase": "zeigte stets grosse Einsatzbereitschaft",
+    "grade": 2,
+    "meaning": "Gute Motivation und hohes Engagement.",
+    "isRedFlag": false,
+    "replacement": "Aufwerten mit 'stets außergewöhnliche'"
+  },
+  {
+    "id": "arb_3",
+    "category": "Arbeitsbereitschaft",
+    "phrase": "zeigte normale Einsatzbereitschaft",
+    "grade": 3,
+    "meaning": "Durchschnittlich, tat nicht mehr als gefordert.",
+    "isRedFlag": false,
+    "replacement": "Aufwerten zu: 'zeigte stets hohe Einsatzbereitschaft'"
+  },
+  {
+    "id": "arb_4",
+    "category": "Arbeitsbereitschaft",
+    "phrase": "zeigte die erforderliche Einsatzbereitschaft",
+    "grade": 4,
+    "meaning": "Dienst nach Vorschrift, keine Spur von Eigeninitiative.",
+    "isRedFlag": true,
+    "replacement": "Nachbessern fordern"
+  },
+  {
+    "id": "arb_5",
+    "category": "Arbeitsbereitschaft",
+    "phrase": "zeigte Verständnis für seine Aufgaben",
+    "grade": 5,
+    "meaning": "Faul und unproduktiv. Hat nur zugeschaut.",
+    "isRedFlag": true,
+    "replacement": "Zwingend streichen lassen"
+  },
+  {
+    "id": "erf_1",
+    "category": "Arbeitserfolg",
+    "phrase": "erzielte stets herausragende Arbeitsergebnisse",
+    "grade": 1,
+    "meaning": "Hervorragende Qualität und exzellenter Output.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten"
+  },
+  {
+    "id": "erf_2",
+    "category": "Arbeitserfolg",
+    "phrase": "erzielte stets gute Arbeitsergebnisse",
+    "grade": 2,
+    "meaning": "Zuverlässig gute Qualität.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten oder aufwerten"
+  },
+  {
+    "id": "erf_3",
+    "category": "Arbeitserfolg",
+    "phrase": "die Arbeitsergebnisse entsprachen den Anforderungen",
+    "grade": 3,
+    "meaning": "Mittelmaß ohne besondere Akzente.",
+    "isRedFlag": false,
+    "replacement": "Ergänzen: 'überstiegen regelmäßig die Anforderungen'"
+  },
+  {
+    "id": "erf_4",
+    "category": "Arbeitserfolg",
+    "phrase": "die Arbeitsergebnisse entsprachen im Allgemeinen den Anforderungen",
+    "grade": 4,
+    "meaning": "Fehleranfällig, häufige Nacharbeiten nötig.",
+    "isRedFlag": true,
+    "replacement": "'im Allgemeinen' streichen"
+  },
+  {
+    "id": "verh_1",
+    "category": "Sozialverhalten",
+    "phrase": "gegenüber Vorgesetzten und Kollegen war stets vorbildlich",
+    "grade": 1,
+    "meaning": "Exzellentes Verhalten in korrekter hierarchischer Reihenfolge.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten"
+  },
+  {
+    "id": "verh_1b",
+    "category": "Sozialverhalten",
+    "phrase": "gegenüber Vorgesetzten, Kollegen und Kunden stets einwandfrei",
+    "grade": 1,
+    "meaning": "Perfektes Auftreten intern wie extern.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten"
+  },
+  {
+    "id": "verh_2",
+    "category": "Sozialverhalten",
+    "phrase": "gegenüber Vorgesetzten und Kollegen stets einwandfrei",
+    "grade": 2,
+    "meaning": "Gut und ohne Tadel.",
+    "isRedFlag": false,
+    "replacement": "Aufwerten zu 'vorbildlich'"
+  },
+  {
+    "id": "verh_3",
+    "category": "Sozialverhalten",
+    "phrase": "gegenüber Vorgesetzten und Kollegen einwandfrei",
+    "grade": 3,
+    "meaning": "Befriedigend (ohne 'stets'). Gelegentliche Spannungen.",
+    "isRedFlag": false,
+    "replacement": "'stets einwandfrei' fordern"
+  },
+  {
+    "id": "verh_4",
+    "category": "Sozialverhalten",
+    "phrase": "gegenüber Kollegen und Vorgesetzten",
+    "grade": 4,
+    "meaning": "Red Flag: Kollegen vor Vorgesetzten genannt. Respektlosigkeit gegenüber Chefs.",
+    "isRedFlag": true,
+    "replacement": "Reihenfolge zwingend umdrehen: Vorgesetzte immer vor Kollegen!"
+  },
+  {
+    "id": "rf_alk",
+    "category": "Red Flag / Warnung",
+    "phrase": "trug durch seine Geselligkeit",
+    "grade": 5,
+    "meaning": "Alkohol am Arbeitsplatz oder extreme Geschwätzigkeit.",
+    "isRedFlag": true,
+    "replacement": "Sofort und ausnahmslos streichen lassen"
+  },
+  {
+    "id": "rf_puenkt",
+    "category": "Red Flag / Warnung",
+    "phrase": "zeichnete sich durch Pünktlichkeit aus",
+    "grade": 5,
+    "meaning": "Alibi-Lob: Keine sonstigen positiven Leistungen vorhanden.",
+    "isRedFlag": true,
+    "replacement": "Streichen lassen oder in allgemeines Arbeitsverhalten einbinden"
+  },
+  {
+    "id": "rf_gew",
+    "category": "Red Flag / Warnung",
+    "phrase": "setzte sich für die Interessen der Kollegen ein",
+    "grade": 4,
+    "meaning": "Unbequeme Betriebsrats- oder Gewerkschaftsaktivität; Unruhestifter.",
+    "isRedFlag": true,
+    "replacement": "Neutralisieren zu kollegialer Zusammenarbeit"
+  },
+  {
+    "id": "rf_ehrlich",
+    "category": "Red Flag / Warnung",
+    "phrase": "war stets ehrlich",
+    "grade": 5,
+    "meaning": "Verdacht auf Unredlichkeit / Diebstahl (außer bei expliziten Kassierern).",
+    "isRedFlag": true,
+    "replacement": "Streichen bei Jobs ohne Bargeldkontakt"
+  },
+  {
+    "id": "rf_kenn",
+    "category": "Red Flag / Warnung",
+    "phrase": "lernten wir als engagierten Mitarbeiter kennen",
+    "grade": 5,
+    "meaning": "'Kennenlernen' drückt aus, dass der Eindruck täuschte.",
+    "isRedFlag": true,
+    "replacement": "Ändern in: 'Er war ein jederzeit engagierter Mitarbeiter'"
+  },
+  {
+    "id": "sch_1",
+    "category": "Schlussformel",
+    "phrase": "bedauern sein Ausscheiden sehr und danken für die stets hervorragende",
+    "grade": 1,
+    "meaning": "Vollständige Bestnote in der Schlussformel.",
+    "isRedFlag": false,
+    "replacement": "Beibehalten"
+  },
+  {
+    "id": "sch_2",
+    "category": "Schlussformel",
+    "phrase": "bedauern sein Ausscheiden und danken für die gute Zusammenarbeit",
+    "grade": 2,
+    "meaning": "Gute Verabschiedung mit echtem Bedauern.",
+    "isRedFlag": false,
+    "replacement": "Aufwerten mit 'sehr' und 'stets hervorragende'"
+  },
+  {
+    "id": "sch_3",
+    "category": "Schlussformel",
+    "phrase": "wünschen ihm für die Zukunft alles Gute",
+    "grade": 3,
+    "meaning": "Dank oder Bedauern fehlen. Schwache Schlussformel.",
+    "isRedFlag": false,
+    "replacement": "Um Bedauern und Dank ergänzen"
+  },
+  {
+    "id": "sch_4",
+    "category": "Schlussformel",
+    "phrase": "wünschen ihm für die Zukunft insbesondere Erfolg",
+    "grade": 4,
+    "meaning": "'insbesondere Erfolg' deutet darauf hin, dass bisher kein Erfolg da war.",
+    "isRedFlag": true,
+    "replacement": "Ändern in: 'weiterhin viel Erfolg'"
+  },
+  {
+    "id": "sch_5",
+    "category": "Schlussformel",
+    "phrase": "wünschen ihm viel Glück",
+    "grade": 5,
+    "meaning": "Wer Glück braucht, hat kein Können. Vernichtender Wunsch.",
+    "isRedFlag": true,
+    "replacement": "Ändern in: 'weiterhin viel Erfolg'"
+  }
+]
